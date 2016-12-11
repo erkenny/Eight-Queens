@@ -1,0 +1,9 @@
+c:\users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\lizke\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
